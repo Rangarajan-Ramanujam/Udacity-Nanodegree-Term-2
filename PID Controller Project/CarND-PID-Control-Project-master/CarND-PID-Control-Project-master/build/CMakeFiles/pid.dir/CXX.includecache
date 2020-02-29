@@ -1,0 +1,90 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/e/Self Driving Car Nanodegree/Term 2- Aug 2018 to Nov 2018/CarND-PID-Control-Project-master/CarND-PID-Control-Project-master/src/PID.cpp
+PID.h
+/mnt/e/Self Driving Car Nanodegree/Term 2- Aug 2018 to Nov 2018/CarND-PID-Control-Project-master/CarND-PID-Control-Project-master/src/PID.h
+iostream
+-
+cmath
+-
+limits
+-
+
+/mnt/e/Self Driving Car Nanodegree/Term 2- Aug 2018 to Nov 2018/CarND-PID-Control-Project-master/CarND-PID-Control-Project-master/src/PID.h
+vector
+-
+
+/mnt/e/Self Driving Car Nanodegree/Term 2- Aug 2018 to Nov 2018/CarND-PID-Control-Project-master/CarND-PID-Control-Project-master/src/json.hpp
+algorithm
+-
+array
+-
+cassert
+-
+cctype
+-
+ciso646
+-
+cmath
+-
+cstddef
+-
+cstdint
+-
+cstdlib
+-
+cstring
+-
+forward_list
+-
+functional
+-
+initializer_list
+-
+iomanip
+-
+iostream
+-
+iterator
+-
+limits
+-
+locale
+-
+map
+-
+memory
+-
+numeric
+-
+sstream
+-
+stdexcept
+-
+string
+-
+type_traits
+-
+utility
+-
+vector
+-
+
+/mnt/e/Self Driving Car Nanodegree/Term 2- Aug 2018 to Nov 2018/CarND-PID-Control-Project-master/CarND-PID-Control-Project-master/src/main.cpp
+uWS/uWS.h
+-
+iostream
+-
+json.hpp
+/mnt/e/Self Driving Car Nanodegree/Term 2- Aug 2018 to Nov 2018/CarND-PID-Control-Project-master/CarND-PID-Control-Project-master/src/json.hpp
+PID.h
+/mnt/e/Self Driving Car Nanodegree/Term 2- Aug 2018 to Nov 2018/CarND-PID-Control-Project-master/CarND-PID-Control-Project-master/src/PID.h
+math.h
+-
+
